@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MessageVoice</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_listen">监听推送消息播放语音</string>
+</resources>
